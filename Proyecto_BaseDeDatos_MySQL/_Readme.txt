@@ -15,7 +15,8 @@ Clase 3: En esta clase añadí una tabla de Localidades y Provincias y las norma
 practicas las futuras consultas. Además, se creó hizo una detección de outliers y un KPI (Esto último no me salió y lo copie).
 
 Clase 4: Aquí lo que hice fue crear índices en las columnas con ID en todas las tablas, luego referencié estas mismas columnas con valores que
-refieren a lo mismo en las distintas tablas. Además, creé 3 Querys que ejecuté antes y después de los índices y las referencias, y el resultado fue un gran porcentaje de velocidad aumentada. Por último, añadí una tabla nueva que almacena hechos relevantes de las ventas.
+refieren a lo mismo en las distintas tablas. Además, creé 3 Querys que ejecuté antes y después de los índices y las referencias, y el resultado 
+fue un gran porcentaje de velocidad aumentada. Por último, añadí una tabla nueva que almacena hechos relevantes de las ventas.
 
 Clase 5: En esta clase se creó varias tablas nuevas con sus respectivos triggers para cargarlas automáticamente (si bien entendí el concepto, 
 no hice todo el trabajo yo).
